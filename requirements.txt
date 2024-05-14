@@ -1,0 +1,6 @@
+gensim
+numpy
+matplotlib
+sklearn
+openpyxl
+os
